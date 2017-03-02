@@ -6,10 +6,12 @@ Windowsに標準で付属している電卓(calc)をコマンド化します。
 # Demo
 
 コマンド実行
-![コマンド実行](https://github.com/wordijp/calcmd/demo/calcmd.gif)
+
+![コマンド実行](./demo/calcmd.gif)
 
 Pythonから実行して結果を表示
-![Pythonから実行](https://github.com/wordijp/calcmd/demo/calcmd_py.gif)
+
+![Pythonから実行](./demo/calcmd_py.gif)
 
 
 # 使い方
